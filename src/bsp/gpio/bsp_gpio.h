@@ -1,0 +1,1 @@
+void bsp_gio_configure_gpios(void);
